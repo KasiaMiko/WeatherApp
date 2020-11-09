@@ -6,6 +6,7 @@
     #e3eeff 100%
   );
   padding: 30px;
+  padding-bottom: 10px;
   border-radius: 4px;
 }
 h1 {
@@ -60,4 +61,9 @@ h6 {
   position: relative;
   top: -12px;
   font-weight: 400;
+}
+.signature {
+  position: relative;
+  top: 53px;
+  font-size: 14px;
 }
